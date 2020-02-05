@@ -7,3 +7,4 @@
 - [Paper Review: CCNet](https://www.youtube.com/watch?v=wF-DdshOpCw)
 - [Reopen Pull Requests to make requested changes to your PR](https://www.youtube.com/watch?v=RyW3OWQKSUM)
 - [Tutorial: Running Julia on Jupyter Notebooks and Google Colab](https://youtu.be/zUfp4Jy6dmY)
+- [Code Navigation using Ctags and Vim](https://www.youtube.com/watch?v=M6VUrPbqGi4)
